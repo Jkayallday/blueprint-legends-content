@@ -1,0 +1,32 @@
+# Blueprint Legends: AI Design Prompt Library
+
+Use the following prompts with AI image generators (e.g., DALL·E, Midjourney) to create unique blueprint‑style posters. Modify variables in brackets to explore different subjects and styles.
+
+1. **Futuristic Steam Tractor**  
+   `Create a blueprint-style poster of a futuristic steam-powered tractor, featuring intricate gears, pipes and gauges. Use blueprint-blue and white colors, detailed technical drawing style with annotations and labels. Include both front and side views on a dark-blue background.`
+
+2. **Retro Rocket Ship**  
+   `Generate a blueprint art of a retro rocket ship with classic fins and portholes. Use a blueprint-blue background and white linework. The design should mimic vintage engineering blueprints with dimension lines and call-outs, evoking mid-century space exploration.`
+
+3. **Mythical Airship**  
+   `Illustrate a blueprint of a whimsical airship that combines elements of a zeppelin and sailing ship. Draw the hull, balloons, propellers and anchors with precise white lines on a blue background. Add schematic labels and cross-sectional views for a technical feel.`
+
+4. **Mechanical Dragon**  
+   `Create a technical blueprint of a mechanical dragon, composed of cogs, pistons and armor plates. The dragon should be posed dynamically, with wings spread, and rendered in blueprint-blue tones with white outlines and annotation arrows.`
+
+5. **Circuit Board City**  
+   `Design a blueprint poster depicting a futuristic cityscape made from circuit board patterns. Skyscrapers resemble electronic components (chips, resistors, traces), all outlined in white on a dark-blue background. Use grid lines and technical labels to enhance the schematic aesthetic.`
+
+6. **Customizable Template**  
+   `Generate a blank blueprint template with a grid background and placeholder title block at the bottom right. Leave space for inserting custom illustrations. Use crisp white lines on blueprint blue paper texture, and include measurement rulers and a faint watermark “Blueprint Legends Template”.`
+
+These prompts are starting points; adjust elements (subject, color variation, perspective) to diversify your product catalog. Aim for high resolution (at least 300 DPI) to ensure print quality on large-format posters.
+
+7. **Robot Laboratory**  
+   `Compose a blueprint-style poster of an advanced robotics laboratory, showing robotic arms, conveyor belts and control panels. Use a deep blue background and white line art with annotations. Include a small human figure for scale and technical call-outs for key components.`
+
+8. **Retro Arcade Machine**  
+   `Generate a blueprint of a vintage arcade cabinet, complete with joystick, buttons and a CRT screen. Draw front and side views. Use blueprint blue and white colors with detailed labels and dimension lines. Capture the nostalgic charm of 1980s gaming.`
+
+9. **Mechanical Octopus**  
+   `Create a technical schematic of a mechanical octopus with articulated tentacles made from gears and pistons. Show the octopus from above, with each arm labelled. Use crisp white lines on a dark-blue blueprint background and include a title block.`
